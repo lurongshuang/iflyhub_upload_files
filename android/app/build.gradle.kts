@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.goldgov.lrs.iflyhub_upload_files"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 35
     ndkVersion = "27.0.12077973"
 
     compileOptions {
